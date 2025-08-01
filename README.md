@@ -1,4 +1,4 @@
-ToDo App.
+ToDo App
 
 I developed an interactive task management application that allows users to create, edit, filter, and delete tasks. This improved organization and efficiency in completing tasks.
 
